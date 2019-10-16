@@ -1,0 +1,14 @@
+D:\Projects\CoffeMug\Product\Product\bin\Debug\netcoreapp2.2\Product.deps.json
+D:\Projects\CoffeMug\Product\Product\bin\Debug\netcoreapp2.2\Product.runtimeconfig.json
+D:\Projects\CoffeMug\Product\Product\bin\Debug\netcoreapp2.2\Product.runtimeconfig.dev.json
+D:\Projects\CoffeMug\Product\Product\bin\Debug\netcoreapp2.2\Product.dll
+D:\Projects\CoffeMug\Product\Product\obj\Debug\netcoreapp2.2\Product.csprojAssemblyReference.cache
+D:\Projects\CoffeMug\Product\Product\obj\Debug\netcoreapp2.2\Product.csproj.CoreCompileInputs.cache
+D:\Projects\CoffeMug\Product\Product\obj\Debug\netcoreapp2.2\Product.RazorAssemblyInfo.cache
+D:\Projects\CoffeMug\Product\Product\obj\Debug\netcoreapp2.2\Product.RazorAssemblyInfo.cs
+D:\Projects\CoffeMug\Product\Product\obj\Debug\netcoreapp2.2\Product.AssemblyInfoInputs.cache
+D:\Projects\CoffeMug\Product\Product\obj\Debug\netcoreapp2.2\Product.AssemblyInfo.cs
+D:\Projects\CoffeMug\Product\Product\obj\Debug\netcoreapp2.2\Product.RazorTargetAssemblyInfo.cache
+D:\Projects\CoffeMug\Product\Product\bin\Debug\netcoreapp2.2\Product.pdb
+D:\Projects\CoffeMug\Product\Product\obj\Debug\netcoreapp2.2\Product.dll
+D:\Projects\CoffeMug\Product\Product\obj\Debug\netcoreapp2.2\Product.pdb
