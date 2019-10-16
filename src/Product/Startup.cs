@@ -35,11 +35,7 @@ namespace Product
             {
                 app.UseDeveloperExceptionPage();
             }
-            else
-            {
-                app.UseExceptionHandler("/Error");
-            }
-
+            
             app.UseMvc();
         }
     }
